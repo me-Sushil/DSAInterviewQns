@@ -1,6 +1,6 @@
 //  console.log(nestedLoop([1,2,3,4,5,6,7], 8))  ask in interview
 //  the question is add two element of array and compare sum with target
-// if sum is equal to target return true else return false. 
+// if sum is equal to target return true else return false. and check all element of array
 
 function nestedLoop(arr, target){
     let num = [];
