@@ -160,17 +160,181 @@ chkconfig / systemctl	Manages system services (on/off)
 
 
 
+10. 📘 Study a little about Incident Response and Backup Policies
+🚨 Incident Response:
+A plan or process for how an organization handles security incidents like hacking,
+ malware, or data breaches.
+
+It includes steps like:
+
+-Detecting the incident
+-Containing the damage
+-Eradicating the threat
+-Recovering systems
+-Reviewing what happened to improve in the future
+
+🧠 Example: If a system is infected with ransomware, the incident response team
+ quickly isolates the machine, removes the malware, and restores data from backups.
+
+💾 Backup Policies:
+Rules and procedures for regularly saving copies of important data to prevent loss.
+
+Good policies include:
+-What data to back up
+-How often to back it up (daily, weekly)
+-Where backups are stored (local, cloud, off-site)
+-Testing backups to make sure they can be restored
+
+🧠 Example: A company may back up its customer database every
+ night to a secure cloud storage, and test the recovery process once a month.
 
 
 
+11. 🔐 Real-World Breaches and How They Could’ve Been Prevented
+1. Equifax Data Breach (2017)
+What happened:
+Hackers stole personal data of over 147 million people due to an unpatched 
+vulnerability in Apache Struts (a web application framework).
+
+How it could’ve been prevented:
+-Timely patch management
+-Regular vulnerability scanning
+-Strong incident response plan
+
+2. Yahoo Breach (2013–2014)
+What happened:
+3 billion accounts were affected. Hackers stole names, emails, passwords, and 
+security questions.
+
+How it could’ve been prevented:
+-Stronger password encryption
+-Better monitoring of unauthorized access
+-Timely breach disclosure and response
+
+3. Target Breach (2013)
+What happened:
+Attackers accessed credit/debit card info of 40 million customers by compromising
+ a third-party HVAC vendor.
+
+How it could’ve been prevented:
+-Strict third-party access controls
+-Proper network segmentation
+-Continuous security monitoring
+
+4. Facebook (Cambridge Analytica Scandal, 2018)
+What happened:
+Data of millions of users was harvested via a third-party app and misused for 
+political advertising.
+
+How it could’ve been prevented:
+-Better app permission controls
+-Clearer user consent mechanisms
+-Strong data usage policies
+
+🔍 Lesson:
+These breaches highlight the need for:
+-Regular patching
+-Strong access control
+-Secure data handling
+-Ongoing security audits
 
 
 
+🔒 GRC (Governance, Risk, and Compliance)
+
+1. What is GRC, and why is it important in cybersecurity?
+
+🛡️ What is GRC?
+GRC stands for:
+
+Governance
+Risk Management
+Compliance
+
+It’s a strategy or framework that helps an organization run securely, stay legal, 
+and manage risks — especially in areas like cybersecurity.
+
+🔍 What each part means:
+Governance:
+-Making sure the company has clear policies, rules, and leadership for managing IT and security.
+-Example: Creating a cybersecurity policy and making sure employees follow it.
+
+Risk Management:
+-Identifying, analyzing, and reducing potential threats or risks to systems and data.
+-Example: Using firewalls and antivirus to reduce the risk of hacking.
+
+Compliance:
+-Making sure the organization follows laws, standards, and industry regulations.
+-Example: Following ISO 27001 or local data protection laws.
+
+✅ Why is GRC Important in Cybersecurity?
+-Helps prevent data breaches and security incidents.
+-Makes sure the organization is legally safe.
+-Builds trust with customers and partners.
+-Ensures preparedness for audits and inspections.
+-Helps the company respond quickly and properly to security incidents.
 
 
+* {A patch is a small update released by software companies to fix 
+problems in a program or system.}
 
 
+2. How do you assess(मूल्याङ्कन) risks in an organization’s IT infrastructure?
 
+✅ Steps to Assess IT Risks:
+1. Identify Assets
+List what needs to be protected: servers, databases, software, user accounts, network
+ devices, etc.
+
+2. Identify Threats
+Think about what could go wrong, like:
+
+-Hackers
+-Malware
+-Insider misuse
+-Hardware failure
+-Natural disasters
+
+3. Find Vulnerabilities
+Look for weaknesses in the system:
+
+-Outdated software
+-Weak passwords
+-Open ports
+-Misconfigured firewalls
+-Missing patches
+
+4. Assess Impact and Likelihood 
+Ask:
+
+-How bad would it be if this risk happened? (Impact)
+-How likely is it to happen? (Likelihood)
+
+🧮 Use a Risk Matrix (Low/Medium/High) to rate each risk.
+
+5. Evaluate Existing Controls
+Check what protections already exist:
+
+-Are antivirus, firewalls, and backups in place?
+-Is MFA (multi-factor authentication) enabled?
+-Are employees trained on security?
+
+6. Decide What to Do
+Accept, reduce, transfer, or avoid the risk:
+
+-Reduce it: Apply a patch, enable encryption
+-Transfer it: Get cyber insurance
+-Avoid it: Don’t use risky software
+-Accept it: If risk is very low
+
+7. Document and Monitor
+-Record the risks and what actions are taken.
+-Review and update the assessment regularly.
+
+🧠 Simple Summary:
+“I assess IT risks by identifying important systems, finding weak points, estimating
+ how likely and harmful each risk is, and then deciding on actions to reduce or manage
+  those risks.”
 
 
 
