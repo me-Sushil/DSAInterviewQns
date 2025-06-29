@@ -70,6 +70,8 @@ top: 0;
 // 14. Pseudo-classes/elements?
 // :hover, :first-child, ::before, ::after.
 
+////////////////////////////////////////////////////////////////
+
 
 // ✅ JavaScript (ES6+)
 
@@ -106,6 +108,8 @@ top: 0;
 // 10. null vs undefined?
 // null is intentional absence; undefined is uninitialized.
 
+
+/////////////////////////////////////////////////////////////////
 
 
 // ✅ React
@@ -167,6 +171,8 @@ top: 0;
 
 
 
+////////////////////////////////////////////////////////////////////
+
 
 // ✅ Node.js & Express
 
@@ -219,6 +225,8 @@ top: 0;
 // Restarts server on file changes.
 
 
+
+////////////////////////////////////////////////////////
 // ✅ Databases
 
 // MySQL:
@@ -253,6 +261,8 @@ top: 0;
 // ACID?
 // Atomicity, Consistency, Isolation, Durability.
 
+
+/////////////////////////////////////////////////////////////
 
 
 // MongoDB:
@@ -289,6 +299,9 @@ top: 0;
 
 
 
+/////////////////////////////////////////////////////////////
+
+
 // Firebase:
 
 // What is it?
@@ -320,6 +333,9 @@ top: 0;
 
 // Real-time updates?
 // onSnapshot() listener.
+
+
+////////////////////////////////////////////////////////////////
 
 
 // ✅ Postman & API Testing
@@ -355,6 +371,8 @@ top: 0;
 // 200 OK, 201 Created, 400 Bad Request, 401 Unauthorized, 500 Server Error
 
 
+////////////////////////////////////////////////////////////////////
+
 
 // ✅ Git & GitHub
 
@@ -387,6 +405,10 @@ top: 0;
 
 // Clone repo?
 // git clone [url]
+
+
+
+////////////////////////////////////////////////////////////////
 
 
 
@@ -462,6 +484,8 @@ top: 0;
 // Exits a function and returns a value.
 
 
+///////////////////////////////////////////////////////
+
 
 // 🟡 Intermediate JavaScript Questions
 
@@ -500,6 +524,7 @@ top: 0;
 // Use try...catch to handle runtime errors.
 
 
+/////////////////////////////////////////////////////////////
 
 // 🔹 Advanced JavaScript Questions
 
@@ -532,7 +557,7 @@ top: 0;
 
 
 
-
+///////////////////////////////////////////////////////////////
 
 
 
