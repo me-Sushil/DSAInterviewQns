@@ -1,3 +1,5 @@
+
+// all this question 
 //Javascript Interview Qna
 // Basic JavaScript Questions with Answers
 
