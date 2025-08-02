@@ -1,5 +1,5 @@
 
-// all this question need to read and understand
+// all this question need to read and understand first
 //Javascript Interview Qna
 // Basic JavaScript Questions with Answers
 
